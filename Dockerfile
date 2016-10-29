@@ -1,4 +1,4 @@
-FROM node:6.6.0
+FROM node:latest
 MAINTAINER John Eriksson <@ranbogmord>
 
 RUN npm i -g nodemon
